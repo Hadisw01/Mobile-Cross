@@ -1,0 +1,26 @@
+.sub {
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: gray;
+}
+
+.image {
+	width: 150px;
+	height: 150px;
+}
+
+.visual {
+	font-size: 0.8em;
+	padding-top: 10px;
+	color: gray;
+}
+
+.judul {
+	font-size: 1em;
+	padding-top: 40px;
+}
+
+.bg {
+	background-color: lightgray;
+}

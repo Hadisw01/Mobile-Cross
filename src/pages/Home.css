@@ -1,0 +1,106 @@
+img {
+	width: 100%;
+	height: auto;
+}
+
+.myCard {
+	position: relative;
+	width: 100%;
+}
+
+.myOverlay {
+	padding-left: 25px;
+	position: absolute;
+	bottom: 20px;
+	font-size: 2em;
+	width: 100%;
+	font-weight: bold;
+	color: #fff;
+}
+
+p {
+	width: 100%;
+	height: auto;
+	text-align: center;
+	border-bottom: 1px solid #000;
+	line-height: 0.1em;
+	margin: 10px 0 20px;
+}
+
+p span {
+	background: #fff;
+	padding: 0 10px;
+}
+
+.text {
+	text-align: center;
+	position: relative;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.cardMain {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.card-title {
+	font-weight: bold;
+	font-size: 2.1em;
+}
+
+.card-title2 {
+	text-decoration: underline;
+	text-align: right;
+	font-size: 1em;
+	padding-right: 20px;
+}
+
+.food {
+	width: 100%;
+	height: auto;
+	margin-bottom: -10px;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+.foodHome {
+	width: 100%;
+	height: auto;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-bottom: -10px;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+.border {
+	border-style: solid;
+	border-radius: 10px;
+	border-color: black;
+	border-width: 1px;
+}
+
+.title {
+	font-size: 1em;
+	padding-top: 20px;
+	bottom: 0;
+	right: 0;
+}
+
+.fab {
+	--padding-bottom: 15px;
+	--padding-end: 80px;
+	--padding-start: 80px;
+	--padding-top: 15px;
+	--border-radius: 25px;
+	font-size: 1em;
+	color: orange;
+	margin-left: -50px;
+}
+
+.huruf {
+	color: rgb(201, 84, 5);
+	font-weight: bold;
+}
